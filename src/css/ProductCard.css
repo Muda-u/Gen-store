@@ -1,0 +1,11 @@
+.product-card {
+  background-color: rgb(229, 226, 226);
+  border-radius: 4px;
+  width: 250px;
+  margin-right: 30px;
+  height: 100px;
+  box-sizing: border-box;
+  margin-bottom: 10px;
+}
+.delete-button {
+}

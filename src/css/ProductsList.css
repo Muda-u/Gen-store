@@ -1,0 +1,8 @@
+.products-container {
+  margin-top: 10px;
+  display: flex;
+  margin-left: 20px;
+  flex-wrap: wrap;
+  width: 60%;
+  margin-bottom: 10px;
+}
