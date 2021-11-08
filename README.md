@@ -1,7 +1,7 @@
-### Consuming APIs with React.js
+# Consuming APIs with React.js
 
 ## Gen'store
-From the project's directory,
-run "npm i" tp install all the dependencies.
 
-run "npm start" to start the web app, it will run on your localhost in the browser
+### Description 
+  I used React.js to demonstrate my knownlege when it comes to consuming apis, and being able to deal with json and manipulate data.
+ 
