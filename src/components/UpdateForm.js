@@ -36,7 +36,7 @@ export default function UpdateForm({Name,Category,Price,setProducts,Id}) {
             <br/>
             <input 
                 required
-                type="text"
+                type="number"
                 name="productCategory"
                 value={productCategory}
                 onChange={(e)=>{handleInputChange(e.target.value,setProductCategory)}}

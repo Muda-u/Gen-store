@@ -68,11 +68,11 @@ function CreateProduct({setProducts}){
                 <br/>
                 <label className="fieldDescription" htmlFor="productCategory"> Product Category</label>
                 <br/>
-                <input className='inputBox' required  onChange={(e)=>{setProductCategory(e.target.value)}} id="productCategory"></input>
+                <input type="number" className='inputBox' required  onChange={(e)=>{setProductCategory(e.target.value)}} id="productCategory"></input>
                 <br/>
                 <label className="fieldDescription" htmlFor="productPrice"> Product Price</label>
                 <br/>
-                <input className='inputBox' required  onChange={(e)=>{setProductPrice(e.target.value); e.preventDefault()}} id="productPrice"></input>
+                <input type="number" className='inputBox' required  onChange={(e)=>{setProductPrice(e.target.value); e.preventDefault()}} id="productPrice"></input>
                 <br/>
                 
                 <button className="btnAdd" type="submit"> Add Product</button>
