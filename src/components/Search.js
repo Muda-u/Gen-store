@@ -21,4 +21,4 @@ function Search({products, setProducts, setSearchMsg}){
 
     )
 }
-export default Search
+export default Search 
