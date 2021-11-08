@@ -16,7 +16,7 @@ function Search({products, setProducts, setSearchMsg}){
     return(
         <div className="searchBar">
             <input onChange={(e)=>{setSearchId(e.target.value)}} type="number" />
-            <button onClick={()=>{fetchOnSearch(searchId,setProducts)}}> search</button>
+            <button onClick={()=>{fetchOnSearch(searchId,setProducts)}}> search by Id</button>
         </div>
 
     )

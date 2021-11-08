@@ -1,6 +1,6 @@
 import React,{useState,useEffect} from "react";
 import { addNewProduct } from "../functions/AddProduct";
-import {useFormik} from "formik"
+
 import "../css/Create.css"
 import ReactJsAlert from "reactjs-alert"
 import Alert from "../components/Alert"
