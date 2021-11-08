@@ -1,3 +1,5 @@
+#consuming APIs with React.js
+
 From the project's directory,
 run "npm i" tp install all the dependencies.
 
