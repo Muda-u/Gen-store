@@ -1,5 +1,6 @@
-### consuming APIs with React.js
+### Consuming APIs with React.js
 
+## Gen'store
 From the project's directory,
 run "npm i" tp install all the dependencies.
 
